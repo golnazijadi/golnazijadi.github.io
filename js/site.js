@@ -97,7 +97,7 @@ $(document).ready(function () {
                 badgeImage.classList.add("badge-img");
                 badgeImage.src = badgeObjects[j].imageUrl;
                 badgeImage.alt = badgeObjects[j].altText;
-                badgeImage.onerror = createFallbackImageHandler(badgeObjects[j].fallbackImageUrl);
+                
 
                 var cardBody = document.createElement("div");
                 cardBody.classList.add("card-body");
