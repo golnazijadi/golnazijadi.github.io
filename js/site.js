@@ -69,8 +69,8 @@ $(document).ready(function () {
 
 
     // URL of the JSON file
-    const url = 'https://raw.githubusercontent.com/kuldeepsingh-in/kuldeepsingh-in.github.io/main/badgeData.json';
-    const statsURL = 'https://api.visitorbadge.io/api/status?path=https%3A%2F%2Fgithub.com%2Fkuldeepsingh-in%2Fkuldeepsingh-in'
+    const url = 'https://raw.githubusercontent.com/golnazijadi/golnazijadi.github.io/main/badgeData.json';
+    const statsURL = 'https://api.visitorbadge.io/api/status?path=https%3A%2F%2Fgithub.com%2Fgolnazijadi%2Fgolnazijadi'
 
     // Fetch the JSON data from the URL
     fetch(url)
