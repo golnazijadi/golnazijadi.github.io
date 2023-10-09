@@ -145,11 +145,11 @@ var skillsList = [
     { text: "Project Management" },
     { text: "Machine Learning" },
     { text: "Agile / Scrum" },
-    { text: "Microsoft Azure Cloud" },,
+    { text: "Microsoft Azure Cloud" },
     { text: "Azure SQL" },
     { text: "Azure Data Factory" },
     { text: "Azure Databrick" },
-    { text: "Google Cloud LLM" }
+    { text: "Google Cloud LLM" },
     { text: "Power BI" },
     { text: "Power BI / Power Apps" }
 ];
