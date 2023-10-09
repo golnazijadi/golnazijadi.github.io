@@ -175,39 +175,41 @@ function createFallbackImageHandler(fallbackImageUrl) {
 var experienceList = [
     {
         company: "PwC UK",
-        jobTitle: "Manager / Cloud Solution Architect",
+        jobTitle: "Senior Consultant / Data & Analytics",
         date: "June 2022 - Present",
         location: "London, UK",
         imageSrc: "images/Company/4-pwc.png"
     },
     {
-        company: "Microsoft",
-        jobTitle: "Cloud Solution Architect - Engineering",
-        date: "July 2019 - May2022",
+        company: "ARUP",
+        jobTitle: "Consultant - Data Anlyst",
+        date: "Feb 2020 - Aug 2022",
         location: "London, UK",
-        imageSrc: "images/Company/3-msft.png"
+        imageSrc: "images/Company/3-arup.png"
     },
     {
-        company: "Microsoft",
-        jobTitle: "Consultant",
-        date: "Jan 2016 - July 2019",
-        location: "Hyderabad, India",
-        imageSrc: "images/Company/3-msft.png"
+        company: "Voltaware",
+        jobTitle: "Data Scientist",
+        date: "Jan 2019 - Sep 2019",
+        location: "London, UK",
+        imageSrc: "images/Company/3-voltaware.png"
     },
     {
-        company: "Aon Hewitt",
-        jobTitle: "Software Engineer",
-        date: "Aug 2015 - Jan 2016",
-        location: "Gurgoan, India",
-        imageSrc: "images/Company/2-aon.png"
+        company: "BRe, Building Research Establishment",
+        jobTitle: "Consultant - Data Anaylst",
+        date: "Mar 2018 - Aug 2019",
+        location: "London, UK",
+        imageSrc: "images/Company/2-bre.png"
     },
     {
-        company: "Icertis",
-        jobTitle: "Software Analyst – Cloud Technologies",
-        date: "Aug 2012 - Jul 2015",
-        location: "Pune, India",
-        imageSrc: "images/Company/1-icertis.png"
+        company: "Surrey County Council",
+        jobTitle: "Project Coordinator",
+        date: "Jul 2016 - Jul 2017",
+        location: "London, UK",
+        imageSrc: "images/Company/1-scc.png"
     }
+    
+        
 ];
 
 var experienceContainer = document.getElementById("dynamicexperience");
