@@ -141,27 +141,16 @@ $(document).ready(function () {
 
 var skillsList = [
 
-    { text: "Enterprise Application Architecture" },
     { text: "Cloud / Digital transformation" },
-    { text: "Data transformation and migration" },
     { text: "Project Management" },
-    { text: "Solution Design" },
+    { text: "Machine Learning" },
     { text: "Agile / Scrum" },
-    { text: "Microsoft Azure Cloud" },
-    { text: "Sustainability Cloud" },
-    { text: "Azure Web/ Compute" },
+    { text: "Microsoft Azure Cloud" },,
     { text: "Azure SQL" },
-    { text: "Cosmos DB" },
-    { text: "Azure Storage" },
     { text: "Azure Data Factory" },
-    { text: "Azure Synapse" },
     { text: "Azure Databrick" },
-    { text: "Data Warehouse" },
-    { text: "Eventing and Messaging" },
-    { text: "Application Monitoring" },
-    { text: "Azure Automation" },
-    { text: "Azure DevOps" },
-    { text: "Power Platform" },
+    { text: "Google Cloud LLM" }
+    { text: "Power BI" },
     { text: "Power BI / Power Apps" }
 ];
 
